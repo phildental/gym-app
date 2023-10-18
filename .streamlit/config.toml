@@ -1,1 +1,1 @@
-[server]\nheadless = true\nenableCORS=false\nport = 8501\n
+[server]\nheadless = true\nenableCORS=false\nport = 8501
